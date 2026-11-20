@@ -1,0 +1,12 @@
+{
+  "name": "distributed-idempotency-key-reconciler",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
